@@ -3,16 +3,7 @@ This data gathered and prepared by Dataak Company
 discription of data shows in bellow table
 
 
-|ستون|توضیحات|
-|--------|-----|
-|gender|جنسیت (ستون هدف)|
-|age|بازه سنی کاربر|
-|fullname|نامی که در پروفایل شبکه اجتماعی نوشته شده است |
-|username|نام کاربری|
-|biography|بیوگرافی شبکه اجتماعی کاربر|
-|follower_count|تعداد دنبال‌کننده‌های کاربر|
-|following_count|تعداد افرادی که کاربر را دنبال می‌کنند|
-|is_business|کسب‌وکاری بودن حساب کاربری|
-|is_verified|تایید شده بودن حساب کاربری|
-|is_private|خصوصی بودن حساب کاربری|
-    
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
