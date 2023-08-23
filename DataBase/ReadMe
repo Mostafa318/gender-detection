@@ -3,7 +3,8 @@ This data gathered and prepared by Dataak Company
 discription of data shows in bellow table
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+the data consist of two sub data one of them for training data which includes lables another one for testing data  
+
+the coloumns of traind data is :
+
+|gender| |age| |fullname| |username| |biography| |follower_count| |following_count| |is_business| |is_verified| |is_private|
